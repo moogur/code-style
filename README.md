@@ -30,6 +30,13 @@
 4. [JavaScript](https://github.com/fullstack-development/front-end-best-practices/blob/master/JS/README.md)
 
 ---
+
+### Other
+
+1. [Clean code](https://github.com/ryanmcdermott/clean-code-javascript/blob/master/README.md)
+2. [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist)
+2. [NodeJS best practices](https://github.com/goldbergyoni/nodebestpractices/blob/master/README.russian.md)
+
 ---
 
 ## Code style for Python
