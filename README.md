@@ -36,17 +36,3 @@
 1. [Clean code](https://github.com/ryanmcdermott/clean-code-javascript/blob/master/README.md)
 2. [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist)
 2. [NodeJS best practices](https://github.com/goldbergyoni/nodebestpractices/blob/master/README.russian.md)
-
----
-
-## Code style for Python
-
-Лучшие практики и стилевые правила написания кода на Python
-
----
-
-### [PEP8](https://www.python.org/dev/peps/pep-0008/)
-
-### Стиль кода
-
-1. [Google](https://google.github.io/styleguide/pyguide.html)
