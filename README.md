@@ -35,4 +35,6 @@
 
 1. [Clean code](https://github.com/ryanmcdermott/clean-code-javascript/blob/master/README.md)
 2. [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist)
-2. [NodeJS best practices](https://github.com/goldbergyoni/nodebestpractices/blob/master/README.russian.md)
+3. [NodeJS best practices](https://github.com/goldbergyoni/nodebestpractices/blob/master/README.russian.md)
+4. [Сокращения](./abbreviations/README.md)
+5. [Анимация](./animation/README.md)
